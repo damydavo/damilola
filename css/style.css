@@ -372,7 +372,7 @@ h6 {
   border: 1px solid var(--borderColor);
   padding: 15px;
   border-radius: 5px;
-  margin-bottom: 50px;
+  margin: 32px 50px;
   background-color: var(--mainColor);
 }
 
