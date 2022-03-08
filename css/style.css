@@ -426,4 +426,8 @@ h6 {
     width: 300px;
     height: 250px;
   }
+  #contact-form {
+    width: 80%;
+    margin: 32px 20px;
+  }
 }
