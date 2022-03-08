@@ -418,4 +418,10 @@ h6 {
   .intro-wrapper h1 {
     font-size: 35px;
   }
+  #preview-shadow {
+    background-color: var(--previewShadow);
+    width: auto;
+    height: 180px;
+    
+  }
 }
