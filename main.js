@@ -8,7 +8,6 @@ window.onscroll = () => getWrapper()
 const navBar = document.querySelector('.nav-wrapper')
 const sticky = navBar.offsetTop
 
-
 const getWrapper = () => window.pageYOffset > sticky ? navBar.classList.add('sticky') : navBar.classList.remove('sticky')
 
 
